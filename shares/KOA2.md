@@ -1,4 +1,4 @@
-title:KOA2
+title: KOA2介绍
 speaker: 郑美双
 url: https://github.com/ksky521/nodePPT
 transition: slide3
@@ -7,7 +7,7 @@ theme: moon
 usemathjax: yes
 
 [slide]
-## Koa2 大纲
+## Koa2 分享大纲
 
 * Koa2的简介
 * Koa2和Koa1的区别
