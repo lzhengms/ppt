@@ -1,22 +1,22 @@
-title:JSSDK 介绍
+title:KOA2
 speaker: 郑美双
-url:
+url: https://github.com/ksky521/nodePPT
 transition: slide3
 files: /js/demo.js,/css/demo.css,/js/zoom.js
 theme: moon
 usemathjax: yes
 
 [slide]
-## JSSDK 介绍大纲
+## Koa2 大纲
 
-* JSSDK简介
-* analytic-api例子的介绍
-* 使用云图SDK上的一些注意点
-* demo演示
-* 开发步骤
-* rollup打包，发布
-* rollup打包遇到的问题
-* 单元测试
+* Koa2的简介
+* Koa2和Koa1的区别
+* Koa2的安装
+* Koa2应用（Application,context,request,response）
+* Koa2的中间件（执行顺序）
+* Koa2的常用中间件及作用
+* Koa2的example
+* admin后台使用Koa2的实现
 
 [slide]
 ## JSSDK简介

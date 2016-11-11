@@ -9,7 +9,7 @@
     "email": "lzhengms@gmail.com"
   },
   "scripts": {
-      "jssdk": "nodeppt start -p 8090 -d ./shares -H 127.0.0.1"
+      "ppt": "nodeppt start -p 8090 -d ./shares -H 127.0.0.1"
   },
   "repository": {
     "type": "git",
